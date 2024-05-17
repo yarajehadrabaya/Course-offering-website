@@ -3,7 +3,7 @@
 ### What is the goal of this website?
 A website that serves the educational institutions sector to provide courses.
 ### 🌍 Live Demo :
-[Bookme](https://courseoffering.netlify.app/) - "Responsive for laptop and For phones"
+[courseoffering](https://courseoffering.netlify.app/) - "Responsive for laptop and For phones"
 ### Develpoer :
 * 	👩💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
