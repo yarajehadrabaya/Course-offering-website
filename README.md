@@ -12,6 +12,5 @@ Front end
 _______________________________________________________________________________________________________________________
 
 ###### NOTE:
-Figma design
-https://www.figma.com/file/pajJXsOiRcnZzLDRuZiuRy/Untitled?type=design&node-id=0%3A1&mode=design&t=QNBLRqw6LA0src6k-1
+[Figma design](https://www.figma.com/file/pajJXsOiRcnZzLDRuZiuRy/Untitled?type=design&node-id=0%3A1&mode=design&t=QNBLRqw6LA0src6k-1) 
 _______________________________________________________________________________________________________________________
